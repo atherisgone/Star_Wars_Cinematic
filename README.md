@@ -1,13 +1,13 @@
-# Star Wars Cinematic — Unreal Engine
+# Star Wars Cinematic — Unreal Engine 5
 
-A cinematic Unreal Engine project focused on large-scale composition, lighting, and storytelling through visuals.  
+A cinematic Unreal Engine tutorial project focused on large-scale composition, lighting, and storytelling through visuals.  
 This project explores atmosphere, scale, and cinematic language inspired by sci-fi military formations.
 
 ---
 
 ## 🎬 Project Overview
 
-- **Engine:** Unreal Engine 5
+- **Engine:** Unreal Engine 5.3
 - **Project Type:** Cinematic / Non-Interactive
 - **Platform:** Windows
 - **Status:** Completed / Portfolio Project
@@ -20,6 +20,9 @@ The goal was to push cinematic quality, scene composition, and rendering inside 
 
 ## 🖼️ Visual Preview
 Cinematic frames rendered directly from Unreal Engine using Sequencer and Cinematic Cameras.
+
+### Environment
+![WideShot](Screenshots/wideshot.png)
 
 ### Large-Scale Formation
 ![Imperial Formation](Screenshots/approaching.png)
@@ -47,14 +50,9 @@ This project was built as a **learning-driven cinematic**, covering the full rea
 - Depth, contrast, and subject separation
 - Using light to guide viewer focus
 
-### 🔹 Materials & Textures
-- Physically Based Materials (PBR)
-- Texture organization and optimization
-- Material instancing for performance and consistency
-
 ### 🔹 Scene Decoration
 - Large-scale environment composition
-- Repetition handling without visual monotony
+- Repetition handling
 - Set dressing for cinematic framing
 
 ### 🔹 Animation & Sequencer
@@ -65,22 +63,19 @@ This project was built as a **learning-driven cinematic**, covering the full rea
 
 ### 🔹 Camera, Rigs & Cinematics
 - Cinematic Camera Actors
-- Lens choice and depth of field
+- Depth of field
 - Camera blocking and movement
-- Framing for scale and hierarchy
 
 ### 🔹 Rendering
 - Real-time cinematic rendering
-- Exposure and color balance
 - Final output preparation for video
 
 ---
 
 ## 📁 Repository Structure
-├── Content/ # Unreal Engine assets
-├── Config/ # Project configuration
-├── Source/ # (Empty / Not used – Blueprint-based)
+├── Content/        
+├── Config/        
 ├── .gitignore
-├── .gitattributes # Git LFS configuration
+├── .gitattributes 
 ├── README.md
 └── *.uproject
