@@ -75,7 +75,7 @@ This project was built as a **learning-driven cinematic**, covering the full rea
 ## 📁 Repository Structure
 ├── Content/        
 ├── Config/        
-├── .gitignore/
-├── .gitattributes/
-├── README.md/
-└── *.uproject
+├── .gitignore  
+├── .gitattributes  
+├── README.md  
+└── *.uproject  
