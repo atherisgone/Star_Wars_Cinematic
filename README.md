@@ -22,13 +22,13 @@ The goal was to push cinematic quality, scene composition, and rendering inside 
 Cinematic frames rendered directly from Unreal Engine using Sequencer and Cinematic Cameras.
 
 ### Large-Scale Formation
-![Imperial Formation](Screenshots/formation_hall.jpg)
+![Imperial Formation](Screenshots/Approaching.jpg)
 
 ### Character Close-Up
-![Stormtrooper Close-Up](Screenshots/closeup_trooper.jpg)
+![Stormtrooper Close-Up](Screenshots/Army.jpg)
 
 ### Shuttle Arrival Shot
-![Shuttle Approach](Screenshots/shuttle_approach.jpg)
+![Shuttle Approach](Screenshots/SpaceshipDoorOpening.jpg)
 
 ---
 
