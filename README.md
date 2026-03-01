@@ -1,4 +1,4 @@
-# Star Wars Cinematic — Unreal Engine 5
+# Star Wars Cinematic - Unreal Engine 5
 
 A cinematic Unreal Engine tutorial (BadDecisions) project focused on large-scale composition, lighting, and storytelling through visuals. 
 This project explores atmosphere, scale, and cinematic language inspired by sci-fi military formations.
